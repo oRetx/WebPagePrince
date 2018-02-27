@@ -1,0 +1,34 @@
+{
+  "person": [
+    {
+      "firstName": "Purple Rain",
+      "lastName": "1985",
+      "job": "Prince and the Revolution",
+      "roll": "20 Million"
+    },
+    {
+      "firstName": "Batman",
+      "lastName": "1980",
+      "job": "Prince",
+      "roll": "15 Million"
+    },
+    {
+      "firstName": "Diamonds and Pearls",
+      "lastName": "1975",
+      "job": "Prince",
+      "roll": "12 Million"
+    },
+    {
+      "firstName": "1999",
+      "lastName": "1998",
+      "job": "Prince",
+      "roll": "10 Million"
+    },
+    {
+      "firstName": "Around the World in a Day",
+      "lastName": "1974",
+      "job": "Prince",
+      "roll": "9 Million"
+    }
+  ]
+}
